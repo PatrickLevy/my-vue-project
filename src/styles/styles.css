@@ -1,0 +1,29 @@
+.dynamic-props, .home, .myDynamicProps, .main-layout, .loop, .myListItem {
+  border: solid;
+  margin: 20px;
+  padding: 50px;
+}
+
+.dynamic-props {
+
+}
+
+.home {
+
+}
+
+.myDynamicProps {
+  color: blue;
+}
+
+.main-layout {
+
+}
+
+.loop {
+
+}
+
+.myListItem {
+  color: red;
+}
